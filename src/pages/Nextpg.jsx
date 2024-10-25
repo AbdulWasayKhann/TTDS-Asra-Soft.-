@@ -5,7 +5,6 @@ import './Nextpg.css'
 const Nextpg = () => {
   return (
     <>
-        <h1>Hello</h1>
         {/* <div>
             Next Page
         </div> */}
