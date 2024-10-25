@@ -2,6 +2,7 @@ import React from 'react'
 import Navbar from '../components/Navbar'
 import './Nextpg.css'
 
+
 const Nextpg = () => {
   return (
     <>
