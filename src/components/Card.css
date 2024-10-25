@@ -1,0 +1,19 @@
+.home_card{
+    width: 47%;
+}
+.h_c_image{
+    border-top: 7px solid;
+    border-color: #ff9800 !important;
+    width: 100%;
+    line-height: normal;
+}
+.card_heading{
+    font-size: 30px;
+    font-family: "Segoe UI", Arial, sans-serif;
+    margin: 0;
+    line-height: 60px;
+}
+.card_text{
+    font-size: 15px;
+    font-family: Verdana, sans-serif;
+}
